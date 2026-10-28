@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "NjsJdRtDisplay",
+  "name": "NjsJdRtDisplay",
+  "author": "Wacky",
+  "version": "1.0.0",
+  "description": "Displays current NJS on the upper row, and JD (left) and RT (right) on the lower row during gameplay.",
+  "gameVersion": "1.40.8",
+  "dependsOn": {
+    "BSIPA": "^4.3.0",
+    "SiraUtil": "^3.1.0",
+    "BeatSaberMarkupLanguage": "^1.12.0"
+  }
+}

@@ -1,0 +1,16 @@
+<settings-container xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+                    xsi:schemaLocation='https://monkeymanboy.github.io/BSML-Docs/ https://raw.githubusercontent.com/monkeymanboy/BSML-Docs/gh-pages/BSMLSchema.xsd'>
+  <vertical child-control-height='false' spacing='1' pad='2'>
+    <toggle-setting text='表示を有効化 (Enabled)' value='Enabled' apply-on-change='true' />
+    <toggle-setting text='メニューでプレビュー表示 (Menu Preview)' value='MenuPreview' apply-on-change='true' />
+    <toggle-setting text='ポーズ中に移動ハンドル表示 (Pause Handle)' value='ShowHandleOnPause' apply-on-change='true' />
+    <increment-setting text='表示サイズ (Scale)' value='Scale' min='0.3' max='3.0' increment='0.05' digits='2' apply-on-change='true' />
+    <increment-setting text='小数点桁数 (Decimals)' value='DecimalPlaces' min='0' max='2' increment='1' integer-only='true' apply-on-change='true' />
+    <increment-setting text='位置 X (Pos X)' value='PosX' min='-5.0' max='5.0' increment='0.05' digits='2' apply-on-change='true' />
+    <increment-setting text='位置 Y (Pos Y)' value='PosY' min='0.0' max='5.0' increment='0.05' digits='2' apply-on-change='true' />
+    <increment-setting text='位置 Z (Pos Z)' value='PosZ' min='-2.0' max='12.0' increment='0.1' digits='2' apply-on-change='true' />
+    <horizontal child-align='MiddleCenter' pad-top='2'>
+      <button text='位置・サイズを初期値に戻す (Reset)' on-click='ResetPosition' />
+    </horizontal>
+  </vertical>
+</settings-container>

@@ -1,0 +1,12 @@
+<bg xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:schemaLocation='https://monkeymanboy.github.io/BSML-Docs/ https://raw.githubusercontent.com/monkeymanboy/BSML-Docs/gh-pages/BSMLSchema.xsd'>
+  <vertical child-control-height='false' child-expand-height='false' child-align='MiddleCenter' spacing='0.5'>
+    <horizontal pref-width='60' pref-height='9.5' child-control-width='true' child-expand-width='false' child-align='MiddleCenter'>
+      <text id='njs-text' text='NJS 0.0' pref-width='58' font-size='6.5' align='Center' word-wrapping='false' />
+    </horizontal>
+    <horizontal pref-width='60' pref-height='9.5' spacing='2.5' child-control-width='true' child-expand-width='false' child-align='MiddleCenter'>
+      <text id='jd-text' text='JD 0.0' pref-width='28' font-size='6.5' align='Right' word-wrapping='false' />
+      <text id='rt-text' text='RT 0' pref-width='28' font-size='6.5' align='Left' word-wrapping='false' />
+    </horizontal>
+  </vertical>
+</bg>
