@@ -13,12 +13,10 @@ Displays real-time **NJS (Note Jump Speed)**, **JD (Jump Distance)**, and **RT (
 > [!WARNING]
 > ### 免責事項 / Disclaimer
 > 
-> **日本語:**  
 > 本MODは wacky が個人的に楽しむために作成・カスタマイズしているものです。  
 > そのため、他のPC環境や将来のBeat Saberバージョンでの動作は保証できません。  
 > 導入およびご利用はすべて自己責任にてお願いいたします。
 > 
-> **English:**  
 > This mod is created and maintained by wacky purely for personal enjoyment.  
 > As such, proper operation in other environments or future Beat Saber versions is not guaranteed.  
 > Please use this mod entirely at your own risk.
