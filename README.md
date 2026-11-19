@@ -6,6 +6,8 @@ Beat Saber 1.40.8 向け HUD拡張MODです。
 A HUD extension mod for Beat Saber 1.40.8.  
 Displays real-time **NJS (Note Jump Speed)**, **JD (Jump Distance)**, and **RT (Reaction Time in ms)** on an in-game floating panel during gameplay.
 
+![NjsJdRtDisplay Screenshot](docs/screenshot.jpg)
+
 ---
 
 > [!WARNING]
